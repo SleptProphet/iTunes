@@ -1,0 +1,15 @@
+.box{
+    border: solid black 1px;
+    background-color: peachpuff;
+}
+body{
+    background-color: black;
+    text-align: center;
+    color: peachpuff;
+    font-size: 30px;
+}
+#daBoxes{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
